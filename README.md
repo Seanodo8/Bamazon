@@ -20,31 +20,30 @@ Bamazon is an Amazon-like storefront which utilizes MySQL and node.js. The app w
 
 
 # **Screenshot Images**
-### The app first displays all items available for sale in the bamazon inventory.
+1. The app first displays all items available for sale in the bamazon inventory.
 
 ![Items Command](images/Screenshot(1).png)
 
-### The app then prompts users with two messages, to place an order. The cost of the purchase is also displayed.
+2. The app then prompts users with two messages, to place an order. The cost of the purchase is also displayed.
 
 ![itemselection](images/Screenshot(2).png)
 
-### The app then prompts the user if they would like to continue shopping. If YES the items list is re-displayed with the updated stock.
+3. The app then prompts the user if they would like to continue shopping. If YES the items list is re-displayed with the updated stock.
 
 ![continueShopping](images/Screenshot(3).png)
 
-### If there is not enough stock to fulfill the order...
+4. If there is not enough stock to fulfill the order...
 
 ![Insufficient](images/Screenshot(4).png)
 
-### Finally, if the user does not wish to continue shopping, the connection is ended and the "Thank you for shopping with Bamazon is displayed.
+5. Finally, if the user does not wish to continue shopping, the connection is ended and the "Thank you for shopping with Bamazon is displayed.
 
 ![End](images/Screenshot(5).png)
 
 
 # Technologies Used
-    * Node.js
-    * MySQL
-    * Javascript
-    * Inquirer 
-    * cli - table
-    
+* Node.js
+* MySQL
+* Javascript
+* Inquirer 
+* cli - table
